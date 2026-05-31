@@ -20,4 +20,5 @@ Cadastro, listagem e consulta de dados.
 
 Exemplos Visuais:
 
+<img width="336" height="164" alt="WhatsApp Image 2026-05-31 at 13 23 24 (4)" src="https://github.com/user-attachments/assets/351c6dfc-ddbc-4249-ad27-30c3303de3a7" />
 
