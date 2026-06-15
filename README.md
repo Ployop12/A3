@@ -7,6 +7,7 @@ Componentes:
 -Mateus Vinicius Martins Santos
 -Állan Erick da Cunha Barreto
 -Luiz Félix de Barros Rodrigues de Lima
+-Victor Hugo Araujo De Melo
 
 Sobre o Projeto:
 
